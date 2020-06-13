@@ -1,0 +1,15 @@
+.App{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 2%;
+}
+
+.App-title{
+    font-size: 50px;
+}
+
+.Clock-days, .Clock-hrs, .Clock-mins, .Clock-secs {
+    margin: auto;
+    display: inline;
+    margin-left: 10px;
+}
